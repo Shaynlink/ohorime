@@ -1,5 +1,6 @@
 const CATEGORY_EMOJIES = {
-    misc: '🧮'
+    misc: '🧮',
+    experiences: '🏆'
 }
 
 module.exports = {

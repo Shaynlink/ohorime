@@ -16,7 +16,7 @@ class ReadyEvent {
                         command.properties.name,
                         command
                     );
-                    console.log('[✅] %s send and saved', command.properties.name);
+                    console.log('[CLIENT] ✅ %s send and saved', command.properties.name);
                 }
             })
     }

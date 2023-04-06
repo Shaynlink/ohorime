@@ -7,7 +7,7 @@ class Help {
 
         this.properties = {
             name: 'help',
-            description: 'Testing bot response'
+            description: 'Show commands list'
         };
 
         this.category = 'misc';

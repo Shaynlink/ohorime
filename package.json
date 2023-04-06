@@ -16,6 +16,7 @@
     "discord.js": "^14.9.0",
     "dotenv": "^16.0.3",
     "erlpack": "github:discord/erlpack",
+    "mongodb": "5.2",
     "utf-8-validate": "^6.0.3",
     "zlib-sync": "^0.1.8"
   }
